@@ -1,5 +1,8 @@
 # Constructor-Word-Guess
-
+![screenshot](screenshot1.gif)
+### Link to video1(https://drive.google.com/file/d/1zAhm0dP1T8cdwbWm3vlbYM79rrMivZjc/view)
+![screenshot](screenshot2.gif)
+### Link to video2(https://drive.google.com/file/d/1mYqWoljxqiYFCq809aiKgZlArxofKU24/view)
 Advanced JavaScript Assignment: Constructor Word Guess that utilizes constructors, the NPM Inquirer.js package, objects, and Node.js
 
 * Theme: MCU Movies Superheros
